@@ -7,7 +7,7 @@ Este proyecto forma parte de un trabajo práctico sobre virtualización. El obje
 
 - `programa.py`: Script de prueba en Python desarrollado dentro de la VM. Contiene la lógica para calcular el precio final del producto.
 - `screenshots/`: Carpeta con capturas de pantalla del proceso.
-- `presentacion.pdf`: Archivo con el informe final del trabajo.
+- `TP Integrador AYSO - Facundo Auciello y Ayelen Etchegoyen.pdf`: Archivo con el informe final del trabajo.
 
 
 ## Programa - Calculadora de Precios
